@@ -271,3 +271,6 @@ This repository serves as the official landing page for Notion. The software is 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Notion today!**
+
+---
+**Last updated:** 2026-09-08 12:47:49 UTC
